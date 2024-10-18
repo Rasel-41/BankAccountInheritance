@@ -7,7 +7,7 @@ public void withdraw(double amount){
            balance-=amount;
             System.out.println("Successful trial");
         }
-        else{
+        else {
             System.out.println("Unsuccessful trial");
         }
 }
